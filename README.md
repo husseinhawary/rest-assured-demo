@@ -40,6 +40,8 @@ allure serve allure-results
 
 ## Github Actions
 The project integrated with github actions and you can see the runs build and rerun it from here
+
 ```
-https://github.com/husseinhawary/rest-assured-demo/actions```
+https://github.com/husseinhawary/rest-assured-demo/actions
+```
 
